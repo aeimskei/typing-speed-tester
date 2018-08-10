@@ -8,7 +8,7 @@ An interactive application that’ll test your typing speed and accuracy to the 
 * CSS
 * JavaScript
 
-<kbd>![alt text](screenshot.png "Typing Tester Screenshot")</kbd>
+<kbd>![alt text](typingspeedtest.png "Typing Tester Screenshot")</kbd>
 
 ## Try Out Your Typing Skills
 
